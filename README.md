@@ -42,7 +42,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](./image/SRI.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/118344248/214942276-db8ddcd2-868d-4f61-8748-a10bdf25d3c0.png)
+
 
 ## RESULT:
 The program executed successfully
